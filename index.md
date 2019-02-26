@@ -10,5 +10,6 @@ Need on-demand or long term accounting services in Richmond or it's surrounding 
 - General ledger & financial statement preparation
 - Bookkeeping (Monthly/Quarterly/Annual)
 - Buying/selling businesses
-- Estate & retirement plannting
+- Estate & retirement planning
 
+### Areas Covered
