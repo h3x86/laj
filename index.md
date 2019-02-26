@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Lorraine A Jones, LLC
 
 You can use the [editor on GitHub](https://github.com/h3x86/laj/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
