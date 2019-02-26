@@ -2,7 +2,7 @@
 
 Need on-demand or long term accounting services in Richmond or it's surrounding areas? I provide a range of both personal and corporate tax, accounting & book-keeping services. 
 
-[Contact me to get started.](lorraine@lorraineajones.com)
+[Contact me to get started.](mailto:lorraine@lorraineajones.com)
 
 
 [editor on GitHub](lorraine@lorraineajones.com) to maintain and preview the content for your website in Markdown files.
