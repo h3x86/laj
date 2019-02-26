@@ -1,6 +1,11 @@
 ## Lorraine A Jones, LLC
 
-You can use the [editor on GitHub](https://github.com/h3x86/laj/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Need on-demand or long term accounting services in Richmond and it's surrounding areas? I provide a range of both personal and corporate tax, accounting & book-keeping services. 
+
+[Contact me to get started.](lorraine@lorraineajones.com)
+
+
+[editor on GitHub](lorraine@lorraineajones.com) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
