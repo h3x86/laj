@@ -1,4 +1,4 @@
-## Lorraine A Jones, LLC
+## [Lorraine A Jones, LLC](http://www.lorraineajones.com/)
 
 Need on-demand or long term accounting services in Richmond or it's surrounding areas? I provide my clients a range of tax, accounting & book-keeping services for individuals and corporations alike. 
 
