@@ -13,3 +13,13 @@ Need on-demand or long term accounting services in Richmond or it's surrounding 
 - Estate & retirement planning
 
 ### Areas Covered
+
+- Richmond
+- Henrico
+- Hanover
+- New Kent
+- King William
+- Caroline
+- Goochland
+- Powhatan
+- Chesterfield
